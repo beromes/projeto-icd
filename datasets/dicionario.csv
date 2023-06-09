@@ -1,0 +1,418 @@
+,id_tabela,coluna,chave,cobertura_temporal,valor
+0,microdados,local_nascimento,1,(1),Hospital
+1,microdados,local_nascimento,2,(1),Outros estabelecimentos de saúde
+2,microdados,local_nascimento,3,(1),Domicílio
+3,microdados,local_nascimento,4,(1),Outros
+4,microdados,local_nascimento,9,(1),Ignorado
+5,microdados,sexo,0,(1),Ignorado
+6,microdados,sexo,1,(1),Masculino
+7,microdados,sexo,2,(1),Feminino
+8,microdados,raca_cor,1,(1),Branca
+9,microdados,raca_cor,2,(1),Preta
+10,microdados,raca_cor,3,(1),Amarela
+11,microdados,raca_cor,4,(1),Parda
+12,microdados,raca_cor,5,(1),Indígena
+13,microdados,apgar1,99,(1),Ignorado
+14,microdados,apgar5,99,(1),Ignorado
+15,microdados,id_anomalia,1,"1997, 1999(1)",Sim
+16,microdados,id_anomalia,2,"1997, 1999(1)",Não
+17,microdados,id_anomalia,9,"1997, 1999(1)",Ignorado
+18,microdados,semana_gestacao_estimada,1,2010(1),Exame físico
+19,microdados,semana_gestacao_estimada,2,(1),Outro método
+20,microdados,semana_gestacao_estimada,9,(1),Ignorado
+21,microdados,gestacao_agr,1,(1),Menos de 22 semanas
+22,microdados,gestacao_agr,2,(1),22 a 27 semanas
+23,microdados,gestacao_agr,3,(1),28 a 31 semanas
+24,microdados,gestacao_agr,4,(1),32 a 36 semanas
+25,microdados,gestacao_agr,5,(1),37 a 41 semanas
+26,microdados,gestacao_agr,6,(1),42 semanas e mais
+27,microdados,gestacao_agr,9,(1),Ignorado
+28,microdados,tipo_gravidez,1,(1),Única
+29,microdados,tipo_gravidez,2,(1),Dupla
+30,microdados,tipo_gravidez,3,(1),Tripla ou mais
+31,microdados,tipo_gravidez,9,(1),Ignorado
+32,microdados,tipo_parto,1,(1),Vaginal
+33,microdados,tipo_parto,2,(1),Cesário
+34,microdados,tipo_parto,9,(1),Ignorado
+35,microdados,pre_natal_agr,1,(1),Nenhuma consulta
+36,microdados,pre_natal_agr,2,(1),de 1 a 3 consultas
+37,microdados,pre_natal_agr,3,(1),de 4 a 6 consultas
+38,microdados,pre_natal_agr,4,(1),7 e mais consultas
+39,microdados,pre_natal_agr,9,(1),Ignorado
+40,microdados,classificacao_pre_natal,1,2014(1),Não fez pré-natal
+41,microdados,classificacao_pre_natal,2,2014(1),Inadequado
+42,microdados,classificacao_pre_natal,3,2014(1),Intermediário
+43,microdados,classificacao_pre_natal,4,2014(1),Adequado
+44,microdados,classificacao_pre_natal,5,2014(1),Mais que adequado
+45,microdados,classificacao_pre_natal,6,2014(1),Não Classificados
+46,microdados,id_pais_mae,1,2010(1),ABU DABI
+47,microdados,id_pais_mae,2,2010(1),ACORES
+48,microdados,id_pais_mae,3,2010(1),AFEGANISTAO
+49,microdados,id_pais_mae,4,2010(1),AFRICA DO SUL
+50,microdados,id_pais_mae,5,2010(1),AIMAN
+51,microdados,id_pais_mae,6,2010(1),ALBANIA
+52,microdados,id_pais_mae,8,2010(1),ALEMANHA
+53,microdados,id_pais_mae,9,2010(1),ANDORRA
+54,microdados,id_pais_mae,10,2010(1),ANGOLA
+55,microdados,id_pais_mae,11,2010(1),ANTILHAS HOLANDESAS
+56,microdados,id_pais_mae,12,2010(1),ANGUILLA
+57,microdados,id_pais_mae,13,2010(1),ANTIGUA
+58,microdados,id_pais_mae,14,2010(1),ARABIA SAUDITA
+59,microdados,id_pais_mae,15,2010(1),ARGELIA
+60,microdados,id_pais_mae,16,2010(1),ARGENTINA
+61,microdados,id_pais_mae,17,2010(1),ARMENIA
+62,microdados,id_pais_mae,18,2010(1),ARUBA
+63,microdados,id_pais_mae,19,2010(1),AUSTRALIA
+64,microdados,id_pais_mae,20,2010(1),AUSTRIA
+65,microdados,id_pais_mae,21,2010(1),AZERBAIDJAO
+66,microdados,id_pais_mae,22,2010(1),BAHAMAS
+67,microdados,id_pais_mae,23,2010(1),"BAHREIN, ILHA"
+68,microdados,id_pais_mae,24,2010(1),"BALEARES, ILHAS"
+69,microdados,id_pais_mae,25,2010(1),BANGLADESH
+70,microdados,id_pais_mae,26,2010(1),BARBADOS
+71,microdados,id_pais_mae,27,2010(1),BELGICA
+72,microdados,id_pais_mae,28,2010(1),BELIZE
+73,microdados,id_pais_mae,29,2010(1),BENIN
+74,microdados,id_pais_mae,30,2010(1),BERMUDAS
+75,microdados,id_pais_mae,31,2010(1),BIELORRUSSIA
+76,microdados,id_pais_mae,32,2010(1),BIRMANIA
+77,microdados,id_pais_mae,33,2010(1),BOLIVIA
+78,microdados,id_pais_mae,34,2010(1),BONAIRE
+79,microdados,id_pais_mae,35,2010(1),BOTSWANA
+80,microdados,id_pais_mae,36,2010(1),BRUNEI
+81,microdados,id_pais_mae,37,2010(1),BULGARIA
+82,microdados,id_pais_mae,38,2010(1),BURUNDI
+83,microdados,id_pais_mae,39,2010(1),BURKINA FASSO(ALTO VOLTA)
+84,microdados,id_pais_mae,40,2010(1),BUTAO
+85,microdados,id_pais_mae,41,2010(1),CABO VERDE
+86,microdados,id_pais_mae,42,2010(1),"CAICOS, ILHA"
+87,microdados,id_pais_mae,43,2010(1),CAMEROON
+88,microdados,id_pais_mae,44,2010(1),CAMBOJA
+89,microdados,id_pais_mae,44,2010(1),LAOS
+90,microdados,id_pais_mae,45,2010(1),CANADA
+91,microdados,id_pais_mae,46,2010(1),CANARIAS
+92,microdados,id_pais_mae,47,2010(1),"CAROLINAS, ILHAS"
+93,microdados,id_pais_mae,48,2010(1),CASAQUISTAO
+94,microdados,id_pais_mae,49,2010(1),"CAYMAN, ILHAS"
+95,microdados,id_pais_mae,50,2010(1),CEUTA E MELILLA
+96,microdados,id_pais_mae,51,2010(1),CHADE
+97,microdados,id_pais_mae,52,2010(1),CHILE
+98,microdados,id_pais_mae,53,2010(1),CHINA
+99,microdados,id_pais_mae,54,2010(1),CHIPRE
+100,microdados,id_pais_mae,55,2010(1),"CHRISTMAS, ILHA"
+101,microdados,id_pais_mae,56,2010(1),CINGAPURA
+102,microdados,id_pais_mae,57,2010(1),"COCOS, ILHAS"
+103,microdados,id_pais_mae,58,2010(1),COLOMBIA
+104,microdados,id_pais_mae,59,2010(1),"COMORES, ILHAS"
+105,microdados,id_pais_mae,60,2010(1),CONGO
+106,microdados,id_pais_mae,61,2010(1),"COOK, ILHAS"
+107,microdados,id_pais_mae,62,2010(1),COREIA DO NORTE
+108,microdados,id_pais_mae,63,2010(1),COREIA DO SUL
+109,microdados,id_pais_mae,64,2010(1),COSTA DO MARFIM
+110,microdados,id_pais_mae,65,2010(1),COSTA RICA
+111,microdados,id_pais_mae,66,2010(1),CUBA
+112,microdados,id_pais_mae,67,2010(1),CURACAO
+113,microdados,id_pais_mae,68,2010(1),DINAMARCA
+114,microdados,id_pais_mae,69,2010(1),DJIBUTI
+115,microdados,id_pais_mae,70,2010(1),DOMINICA
+116,microdados,id_pais_mae,71,2010(1),DUBAI
+117,microdados,id_pais_mae,72,2010(1),EGITO
+118,microdados,id_pais_mae,73,2010(1),EIRE
+119,microdados,id_pais_mae,73,2010(1),IRLANDA
+120,microdados,id_pais_mae,74,2010(1),EL SALVADOR
+121,microdados,id_pais_mae,75,2010(1),EQUADOR
+122,microdados,id_pais_mae,76,2010(1),ESCOCIA
+123,microdados,id_pais_mae,77,2010(1),ESPANHA
+124,microdados,id_pais_mae,78,2010(1),ESTADOS UNIDOS
+125,microdados,id_pais_mae,79,2010(1),ESTONIA
+126,microdados,id_pais_mae,80,2010(1),ETIOPIA
+127,microdados,id_pais_mae,81,2010(1),"FALKLAND, ILHAS"
+128,microdados,id_pais_mae,81,2010(1),"MALVINAS, ILHAS"
+129,microdados,id_pais_mae,82,2010(1),"FAROE, ILHAS"
+130,microdados,id_pais_mae,83,2010(1),FIJI
+131,microdados,id_pais_mae,84,2010(1),FILIPINAS
+132,microdados,id_pais_mae,85,2010(1),FINLANDIA
+133,microdados,id_pais_mae,86,2010(1),FORMOSA
+134,microdados,id_pais_mae,87,2010(1),FRANCA
+135,microdados,id_pais_mae,88,2010(1),FUJAIRA
+136,microdados,id_pais_mae,89,2010(1),"FUTUNA, ILHAS"
+137,microdados,id_pais_mae,90,2010(1),GABAO
+138,microdados,id_pais_mae,91,2010(1),"GALAPAGOS, ILHAS"
+139,microdados,id_pais_mae,92,2010(1),"GALES, (PAIS DE)"
+140,microdados,id_pais_mae,93,2010(1),GAMBIA
+141,microdados,id_pais_mae,94,2010(1),GANA
+142,microdados,id_pais_mae,95,2010(1),GEORGIA
+143,microdados,id_pais_mae,96,2010(1),GIBRALTAR
+144,microdados,id_pais_mae,97,2010(1),GRA-BRETANHA
+145,microdados,id_pais_mae,98,2010(1),GRANADA
+146,microdados,id_pais_mae,99,2010(1),GRECIA
+147,microdados,id_pais_mae,100,2010(1),GROENLANDIA
+148,microdados,id_pais_mae,101,2010(1),GUADALUPE
+149,microdados,id_pais_mae,102,2010(1),GUAM
+150,microdados,id_pais_mae,103,2010(1),GUATEMALA
+151,microdados,id_pais_mae,104,2010(1),GUIANA FRANCESA
+152,microdados,id_pais_mae,105,2010(1),GUYANA
+153,microdados,id_pais_mae,106,2010(1),GUINE
+154,microdados,id_pais_mae,107,2010(1),GUINE-BISSAU
+155,microdados,id_pais_mae,108,2010(1),GUINE-EQUATORIAL
+156,microdados,id_pais_mae,109,2010(1),HAITI
+157,microdados,id_pais_mae,110,2010(1),HOLANDA
+158,microdados,id_pais_mae,111,2010(1),HONDURAS
+159,microdados,id_pais_mae,112,2010(1),HONDURAS BRITANICAS
+160,microdados,id_pais_mae,113,2010(1),HONG KONG
+161,microdados,id_pais_mae,114,2010(1),HUNGRIA
+162,microdados,id_pais_mae,115,2010(1),IEMEN
+163,microdados,id_pais_mae,116,2010(1),IEMEN DO SUL
+164,microdados,id_pais_mae,117,2010(1),INDIA
+165,microdados,id_pais_mae,118,2010(1),INDONESIA
+166,microdados,id_pais_mae,119,2010(1),INGLATERRA
+167,microdados,id_pais_mae,120,2010(1),IRA
+168,microdados,id_pais_mae,121,2010(1),IRAQUE
+169,microdados,id_pais_mae,122,2010(1),IRLANDA DO NORTE
+170,microdados,id_pais_mae,123,2010(1),ISLANDIA
+171,microdados,id_pais_mae,124,2010(1),ISRAEL
+172,microdados,id_pais_mae,125,2010(1),ITALIA
+173,microdados,id_pais_mae,126,2010(1),JAMAICA
+174,microdados,id_pais_mae,127,2010(1),JAPAO
+175,microdados,id_pais_mae,128,2010(1),"JOHNSTON, ILHA"
+176,microdados,id_pais_mae,129,2010(1),JORDANIA
+177,microdados,id_pais_mae,130,2010(1),"JUAN FERNANDES, ILHAS"
+178,microdados,id_pais_mae,131,2010(1),KIRIBATI
+179,microdados,id_pais_mae,132,2010(1),KUWEIT
+180,microdados,id_pais_mae,133,2010(1),LESOTO
+181,microdados,id_pais_mae,134,2010(1),LETONIA
+182,microdados,id_pais_mae,135,2010(1),LIBANO
+183,microdados,id_pais_mae,136,2010(1),LIBERIA
+184,microdados,id_pais_mae,137,2010(1),LIBIA
+185,microdados,id_pais_mae,138,2010(1),LIECHTENSTEIN
+186,microdados,id_pais_mae,139,2010(1),LITUANIA
+187,microdados,id_pais_mae,140,2010(1),LUXEMBURGO
+188,microdados,id_pais_mae,141,2010(1),MACAU
+189,microdados,id_pais_mae,142,2010(1),MADAGASCAR
+190,microdados,id_pais_mae,143,2010(1),MADEIRA
+191,microdados,id_pais_mae,144,2010(1),MALAISIA
+192,microdados,id_pais_mae,145,2010(1),MALAWI
+193,microdados,id_pais_mae,146,2010(1),MALDIVAS
+194,microdados,id_pais_mae,147,2010(1),MALI
+195,microdados,id_pais_mae,148,2010(1),MALTA
+196,microdados,id_pais_mae,149,2010(1),"MAN, ILHA DE"
+197,microdados,id_pais_mae,150,2010(1),"MARIANAS, ILHAS"
+198,microdados,id_pais_mae,151,2010(1),"MARQUESAS, ILHAS"
+199,microdados,id_pais_mae,152,2010(1),MARROCOS
+200,microdados,id_pais_mae,153,2010(1),"MARSHAL, ILHAS"
+201,microdados,id_pais_mae,154,2010(1),MARTINICA
+202,microdados,id_pais_mae,155,2010(1),MAYOTTE
+203,microdados,id_pais_mae,156,2010(1),MAURICIUS
+204,microdados,id_pais_mae,157,2010(1),MAURITANIA
+205,microdados,id_pais_mae,158,2010(1),MELILLA
+206,microdados,id_pais_mae,159,2010(1),MEXICO
+207,microdados,id_pais_mae,160,2010(1),"MIDWAY, ILHAS"
+208,microdados,id_pais_mae,161,2010(1),MOCAMBIQUE
+209,microdados,id_pais_mae,162,2010(1),MOLDAVIA
+210,microdados,id_pais_mae,163,2010(1),MONACO
+211,microdados,id_pais_mae,164,2010(1),MONGOLIA
+212,microdados,id_pais_mae,165,2010(1),MONTSERRAT
+213,microdados,id_pais_mae,166,2010(1),NAMIBIA
+214,microdados,id_pais_mae,167,2010(1),NASSAU
+215,microdados,id_pais_mae,168,2010(1),NAURU
+216,microdados,id_pais_mae,169,2010(1),NEPAL
+217,microdados,id_pais_mae,170,2010(1),NEVIS
+218,microdados,id_pais_mae,171,2010(1),NICARAGUA
+219,microdados,id_pais_mae,172,2010(1),NIGER
+220,microdados,id_pais_mae,173,2010(1),NIGERIA
+221,microdados,id_pais_mae,174,2010(1),"NORFOLK, ILHA"
+222,microdados,id_pais_mae,175,2010(1),NORUEGA
+223,microdados,id_pais_mae,176,2010(1),NOVA CALEDONIA
+224,microdados,id_pais_mae,177,2010(1),NOVA GUINE
+225,microdados,id_pais_mae,178,2010(1),NOVA ZELANDIA
+226,microdados,id_pais_mae,179,2010(1),"NOVE, ILHAS"
+227,microdados,id_pais_mae,180,2010(1),OMA
+228,microdados,id_pais_mae,181,2010(1),PANAMA
+229,microdados,id_pais_mae,182,2010(1),PAPUA NOVA GUINE
+230,microdados,id_pais_mae,183,2010(1),PAQUISTAO
+231,microdados,id_pais_mae,184,2010(1),PARAGUAI
+232,microdados,id_pais_mae,185,2010(1),"PASCOA, ILHA"
+233,microdados,id_pais_mae,186,2010(1),PERU
+234,microdados,id_pais_mae,187,2010(1),POLINESIA FRANCESA
+235,microdados,id_pais_mae,188,2010(1),POLONIA
+236,microdados,id_pais_mae,189,2010(1),PORTO RICO
+237,microdados,id_pais_mae,190,2010(1),PORTUGAL
+238,microdados,id_pais_mae,191,2010(1),"PITCAIRN, ILHA"
+239,microdados,id_pais_mae,192,2010(1),QATAR
+240,microdados,id_pais_mae,193,2010(1),QUENIA
+241,microdados,id_pais_mae,194,2010(1),QUIRGUIZIA
+242,microdados,id_pais_mae,195,2010(1),REINO UNIDO
+243,microdados,id_pais_mae,196,2010(1),REPUBLICA CENTRO-AFRICANA
+244,microdados,id_pais_mae,197,2010(1),REPUBLICA DOMINICANA
+245,microdados,id_pais_mae,198,2010(1),REUNIAO
+246,microdados,id_pais_mae,199,2010(1),ROMENIA
+247,microdados,id_pais_mae,200,2010(1),RUANDA
+248,microdados,id_pais_mae,201,2010(1),RUSSIA
+249,microdados,id_pais_mae,202,2010(1),SAARA OCIDENTAL
+250,microdados,id_pais_mae,203,2010(1),"SABA, ILHA"
+251,microdados,id_pais_mae,204,2010(1),SAO CRISTOVAO E NEVIS
+252,microdados,id_pais_mae,205,2010(1),"SAINT MAARTEN, ILHAS"
+253,microdados,id_pais_mae,206,2010(1),"SAINT PIERRE E MIQUELON,I"
+254,microdados,id_pais_mae,207,2010(1),"SALOMAO, ILHAS"
+255,microdados,id_pais_mae,208,2010(1),"SAMOA AMERICANA, ILHAS"
+256,microdados,id_pais_mae,209,2010(1),SAMOA ISISIFO (OCIDENTAL)
+257,microdados,id_pais_mae,210,2010(1),SAN MARINO
+258,microdados,id_pais_mae,211,2010(1),"SANTA LUCIA, ILHA"
+259,microdados,id_pais_mae,212,2010(1),"SANTO EUSTAQUIO, ILHA"
+260,microdados,id_pais_mae,213,2010(1),SAO TOME E PRINCIPE
+261,microdados,id_pais_mae,214,2010(1),SAO VICENTE E GRANADINAS
+262,microdados,id_pais_mae,215,2010(1),SENEGAL
+263,microdados,id_pais_mae,216,2010(1),SERRA LEOA
+264,microdados,id_pais_mae,217,2010(1),SEYCHELLES
+265,microdados,id_pais_mae,218,2010(1),SIRIA
+266,microdados,id_pais_mae,219,2010(1),"SOCIEDADE, ILHAS"
+267,microdados,id_pais_mae,220,2010(1),SOMALIA
+268,microdados,id_pais_mae,221,2010(1),SRI LANKA
+269,microdados,id_pais_mae,222,2010(1),SUAZILANDIA
+270,microdados,id_pais_mae,223,2010(1),SUDAO
+271,microdados,id_pais_mae,224,2010(1),SUECIA
+272,microdados,id_pais_mae,225,2010(1),SUISSA
+273,microdados,id_pais_mae,226,2010(1),SURINAME
+274,microdados,id_pais_mae,227,2010(1),TADJIQUISTAO
+275,microdados,id_pais_mae,228,2010(1),TAILANDIA
+276,microdados,id_pais_mae,229,2010(1),TANZANIA
+277,microdados,id_pais_mae,230,2010(1),TASMANIA
+278,microdados,id_pais_mae,231,2010(1),TCHAD
+279,microdados,id_pais_mae,232,2010(1),TCHECO E ESLOVAQUIA
+280,microdados,id_pais_mae,233,2010(1),TIMOR
+281,microdados,id_pais_mae,234,2010(1),TOGO
+282,microdados,id_pais_mae,235,2010(1),TOKELAU
+283,microdados,id_pais_mae,236,2010(1),TONGA
+284,microdados,id_pais_mae,237,2010(1),TUVALU
+285,microdados,id_pais_mae,238,2010(1),TRINIDAD AND TOBAGO
+286,microdados,id_pais_mae,239,2010(1),TUAMOTU
+287,microdados,id_pais_mae,240,2010(1),TUBUAI
+288,microdados,id_pais_mae,241,2010(1),TUNISIA
+289,microdados,id_pais_mae,242,2010(1),TURCOMENISTAO
+290,microdados,id_pais_mae,243,2010(1),"TURKS, ILHA"
+291,microdados,id_pais_mae,244,2010(1),TURQUIA
+292,microdados,id_pais_mae,245,2010(1),UCRANIA
+293,microdados,id_pais_mae,246,2010(1),UGANDA
+294,microdados,id_pais_mae,247,2010(1),UNIAO DOS EMIRADOS ARABES
+295,microdados,id_pais_mae,248,2010(1),UNIAO SOVIETICA
+296,microdados,id_pais_mae,249,2010(1),URUGUAI
+297,microdados,id_pais_mae,250,2010(1),UZBEQUISTAO
+298,microdados,id_pais_mae,251,2010(1),VANUATU
+299,microdados,id_pais_mae,252,2010(1),VATICANO
+300,microdados,id_pais_mae,253,2010(1),VENEZUELA
+301,microdados,id_pais_mae,254,2010(1),VIETNA
+302,microdados,id_pais_mae,255,2010(1),VIRGENS NORTE-AMERICANAS
+303,microdados,id_pais_mae,256,2010(1),"VIRGENS BRITANICAS,ILHAS"
+304,microdados,id_pais_mae,257,2010(1),"WALLIS, ILHA"
+305,microdados,id_pais_mae,258,2010(1),YUGOSLAVIA
+306,microdados,id_pais_mae,259,2010(1),ZAIRE
+307,microdados,id_pais_mae,260,2010(1),ZAMBIA
+308,microdados,id_pais_mae,261,2010(1),ZIMBABUE
+309,microdados,id_pais_mae,262,2010(1),ZONA DO CANAL DO PANAMA
+310,microdados,id_pais_mae,800,2010(1),BRASIL
+311,microdados,id_pais_mae,811,2010(1),RONDONIA
+312,microdados,id_pais_mae,812,2010(1),ACRE
+313,microdados,id_pais_mae,813,2010(1),AMAZONAS
+314,microdados,id_pais_mae,814,2010(1),RORAIMA
+315,microdados,id_pais_mae,815,2010(1),PARA
+316,microdados,id_pais_mae,816,2010(1),AMAPA
+317,microdados,id_pais_mae,817,2010(1),TOCANTINS
+318,microdados,id_pais_mae,821,2010(1),MARANHAO
+319,microdados,id_pais_mae,822,2010(1),PIAUI
+320,microdados,id_pais_mae,823,2010(1),CEARA
+321,microdados,id_pais_mae,824,2010(1),RIO GRANDE DO NORTE
+322,microdados,id_pais_mae,825,2010(1),PARAIBA
+323,microdados,id_pais_mae,826,2010(1),PERNAMBUCO
+324,microdados,id_pais_mae,827,2010(1),ALAGOAS
+325,microdados,id_pais_mae,828,2010(1),SERGIPE
+326,microdados,id_pais_mae,829,2010(1),BAHIA
+327,microdados,id_pais_mae,831,2010(1),MINAS GERAIS
+328,microdados,id_pais_mae,832,2010(1),ESPIRITO SANTO
+329,microdados,id_pais_mae,833,2010(1),RIO DE JANEIRO
+330,microdados,id_pais_mae,835,2010(1),SAO PAULO
+331,microdados,id_pais_mae,842,2010(1),SANTA CATARINA
+332,microdados,id_pais_mae,843,2010(1),RIO GRANDE DO SUL
+333,microdados,id_pais_mae,850,2010(1),MATO GROSSO DO SUL
+334,microdados,id_pais_mae,851,2010(1),MATO GROSSO
+335,microdados,id_pais_mae,852,2010(1),GOIAS
+336,microdados,id_pais_mae,841,2010(1),PARANA
+337,microdados,id_pais_mae,853,2010(1),DISTRITO FEDERAL
+338,microdados,escolaridade_mae,1,(1),Nenhuma
+339,microdados,escolaridade_mae,2,(1),1 a 3 anos
+340,microdados,escolaridade_mae,3,(1),4 a 7 anos
+341,microdados,escolaridade_mae,4,(1),8 a 11 anos
+342,microdados,escolaridade_mae,5,(1),12 e mais
+343,microdados,escolaridade_mae,9,(1),Ignorado
+344,microdados,escolaridade_2010_mae,0,2010(1),Sem escolaridade
+345,microdados,escolaridade_2010_mae,1,2010(1),Fundamental I (1ª a 4ª série)
+346,microdados,escolaridade_2010_mae,2,2010(1),Fundamental II (5ª a 8ª série)
+347,microdados,escolaridade_2010_mae,3,2010(1),Médio (antigo 2º Grau)
+348,microdados,escolaridade_2010_mae,4,2010(1),Superior incompleto
+349,microdados,escolaridade_2010_mae,5,2010(1),Superior completo
+350,microdados,escolaridade_2010_mae,9,2010(1),Ignorado
+351,microdados,escolaridade_2010_agr_mae,0,2013(1),Sem escolaridade
+352,microdados,escolaridade_2010_agr_mae,1,2013(1),Fundamental I Incompleto
+353,microdados,escolaridade_2010_agr_mae,2,2013(1),Fundamental I Completo
+354,microdados,escolaridade_2010_agr_mae,3,2013(1),Fundamental II Incompleto
+355,microdados,escolaridade_2010_agr_mae,4,2013(1),Fundamental II Completo
+356,microdados,escolaridade_2010_agr_mae,5,2013(1),Ensino Médio Incompleto
+357,microdados,escolaridade_2010_agr_mae,6,2013(1),Ensino Médio Completo
+358,microdados,escolaridade_2010_agr_mae,7,2013(1),Superior Incompleto
+359,microdados,escolaridade_2010_agr_mae,8,2013(1),Superior Completo
+360,microdados,escolaridade_2010_agr_mae,9,2013(1),Ignorado
+361,microdados,escolaridade_2010_agr_mae,10,2013(1),Fundamental I Incompleto ou Inespecífico
+362,microdados,escolaridade_2010_agr_mae,11,2013(1),Fundamental II Incompleto ou Inespecífico
+363,microdados,escolaridade_2010_agr_mae,12,2013(1),EnsinoMédio Incompleto ou Inespecífico
+364,microdados,estado_civil_mae,1,1996(1),Solteira
+365,microdados,estado_civil_mae,2,1996(1),Casada
+366,microdados,estado_civil_mae,3,1996(1),Viúva
+367,microdados,estado_civil_mae,4,1996(1),Separada judicialmente/divorciada
+368,microdados,estado_civil_mae,5,1996(1),União estável
+369,microdados,estado_civil_mae,9,1996(1),Ignorada
+370,microdados,raca_cor_mae,1,2010(1),Branca
+371,microdados,raca_cor_mae,2,2010(1),Preta
+372,microdados,raca_cor_mae,3,2010(1),Amarela
+373,microdados,raca_cor_mae,4,2010(1),Parda
+374,microdados,raca_cor_mae,5,2010(1),Indígena
+375,microdados,tipo_apresentacao,1,2010(1),Cefálico
+376,microdados,tipo_apresentacao,2,2010(1),Pélvica ou podálica
+377,microdados,tipo_apresentacao,3,2010(1),Transversa
+378,microdados,tipo_apresentacao,9,2010(1),Ignorado
+379,microdados,inducao_parto,1,2010(1),Sim
+380,microdados,inducao_parto,2,2010(1),Não
+381,microdados,inducao_parto,3,2010(1),Não se aplica
+382,microdados,inducao_parto,9,2010(1),Ignorado
+383,microdados,cesarea_antes_parto,1,2010(1),Sim
+384,microdados,cesarea_antes_parto,2,2010(1),Não
+385,microdados,cesarea_antes_parto,3,2010(1),Não se aplica
+386,microdados,cesarea_antes_parto,9,2010(1),Ignorado
+387,microdados,tipo_robson,1,2010(1),"Nulípara, gestação única, apresentação cefálica, >37semanas, parto espontâneo"
+388,microdados,tipo_robson,2,2010(1),"Nulípara, gestação única, apresentação cefálica, >37semanas, cesárea antes do trabalho de parto"
+389,microdados,tipo_robson,3,2010(1),"Multípara, gestação única, apresentação cefálica, >37semanas, sem cesárea anterior, parto espontâneo"
+390,microdados,tipo_robson,4,2010(1),"Multípara, gestação única, apresentação cefálica, >37semanas, sem cesárea anterior, cesárea antes do trabalho de parto"
+391,microdados,tipo_robson,5,2010(1),"Gestação única, apresentação cefálica, >37semanas, cesárea anterior"
+392,microdados,tipo_robson,6,2010(1),Todos partos pélvicos em nulíparas
+393,microdados,tipo_robson,7,2010(1),Todos partos pélvicos em multíparas (incluindo cesárea prévia)
+394,microdados,tipo_robson,8,2010(1),Todas gestações múltiplas (incluindo cesárea prévia)
+395,microdados,tipo_robson,9,2010(1),Todas apresentações anormais (incluindo cesárea prévia)
+396,microdados,tipo_robson,10,2010(1),"Todas gestações únicas, apresentação cefálica, <36 semanas, incluindo cesárea prévia"
+397,microdados,tipo_robson,11,2010(1),Nasc n clas por aus respo aos itens necessarios
+398,microdados,funcao_responsavel,1,2014(1),Médico
+399,microdados,funcao_responsavel,2,2014(1),Enfermeiro
+400,microdados,funcao_responsavel,3,2014(1),Parteira
+401,microdados,funcao_responsavel,4,2014(1),Funcionário do cartório
+402,microdados,funcao_responsavel,5,2014(1),Outros
+403,microdados,documento_responsavel,1,2014(1),CNES
+404,microdados,documento_responsavel,2,2014(1),CRM
+405,microdados,documento_responsavel,3,2014(1),COREN
+406,microdados,documento_responsavel,4,2014(1),RG
+407,microdados,documento_responsavel,5,2014(1),CPF
+408,microdados,formacao_profissional_responsavel,1,2013(1),Médico
+409,microdados,formacao_profissional_responsavel,2,2013(1),Enfermeira/obstetriz
+410,microdados,formacao_profissional_responsavel,3,2013(1),Parteira
+411,microdados,formacao_profissional_responsavel,4,2013(1),Outros
+412,microdados,formacao_profissional_responsavel,9,2013(1),Ignorado
+413,microdados,status_dn,0,2010(1),Não
+414,microdados,status_dn,1,2010(1),Sim
+415,microdados,status_dn_nova,0,2010(1),Não
+416,microdados,status_dn_nova,1,2010(1),Sim
